@@ -1,0 +1,137 @@
+Case #1:
+c
+Case #2:
+.
+c
+Case #3:
+*
+c
+Case #4:
+.
+.
+.
+.
+c
+Case #5:
+*
+*
+.
+.
+c
+Case #6:
+*
+*
+*
+.
+c
+Case #7:
+*
+*
+*
+*
+c
+Case #8:
+....
+....
+....
+...c
+Case #9:
+*...
+....
+....
+...c
+Case #10:
+**..
+....
+....
+...c
+Case #11:
+**..
+*...
+....
+...c
+Case #12:
+****
+....
+....
+...c
+Case #13:
+****
+*...
+....
+...c
+Case #14:
+****
+**..
+....
+...c
+Case #15:
+****
+*...
+*...
+*..c
+Case #16:
+****
+****
+....
+...c
+Case #17:
+Impossible
+Case #18:
+****
+****
+*...
+*..c
+Case #19:
+Impossible
+Case #20:
+****
+****
+**..
+**.c
+Case #21:
+Impossible
+Case #22:
+Impossible
+Case #23:
+****
+****
+****
+***c
+Case #24:
+...
+...
+..c
+Case #25:
+.....
+....c
+Case #26:
+Impossible
+Case #27:
+*....
+*...c
+Case #28:
+Impossible
+Case #29:
+**...
+**..c
+Case #30:
+Impossible
+Case #31:
+***..
+***.c
+Case #32:
+Impossible
+Case #33:
+Impossible
+Case #34:
+*****
+****c
+
+ContextSwitches - 0
+First level fills = 0
+Second level fills = 0
+
+ETime(   0:00:00.075 ) UTime(   0:00:00.000 ) KTime(   0:00:00.015 )
+ITime(   0:00:00.000 )
+
